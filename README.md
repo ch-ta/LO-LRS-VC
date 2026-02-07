@@ -1,6 +1,6 @@
 # Algorithm Engineering Project 2
 
-- Longest Oreo (FINAL)
+- Longest Oreo
 - Longest Repeating Substring
 - Vowel Counting
 
